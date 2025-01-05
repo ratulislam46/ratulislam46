@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Ratul Islam</h1>
 <h3 align="center">A passionate learner web developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="[D:\images.pgn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3Bzas-xt1CY29FdabW3Ram&ust=1736141212208000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjCz5js3YoDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulislam46&label=Profile%20views&color=0e75b6&style=flat" alt="ratulislam46" /> </p>
 
