@@ -43,6 +43,13 @@
 
 ## 📈 My GitHub Stats:
 
+![Ratul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfanratul46&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfanratul46&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arfanratul46&theme=radical)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratulislam46&show_icons=true&locale=en&layout=compact" alt="ratulislam46" /></p>
 
 ![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfanratul&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
