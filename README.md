@@ -49,3 +49,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratulislam46&" alt="ratulislam46" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratulislam46&theme=radical" alt="GitHub Streak"/>
+</p>
