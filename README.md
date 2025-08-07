@@ -44,5 +44,8 @@
 ## 📈 My GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratulislam46&show_icons=true&locale=en&layout=compact" alt="ratulislam46" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratulislam46&show_icons=true&locale=en" alt="ratulislam46" /></p>
+
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=ayush2390&count_private=true&show_icons=true&theme=radical&include_all_commits=true) 
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratulislam46&" alt="ratulislam46" /></p>
