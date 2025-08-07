@@ -47,11 +47,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratulislam46&layout=compact&theme=radical)
 
-![Ratul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratulislam46&show_icons=true&theme=radical&count_private=true)
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratulislam46&show_icons=true&locale=en&layout=compact" alt="ratulislam46" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratulislam46&" alt="ratulislam46" /></p>
