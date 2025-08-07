@@ -22,7 +22,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mdratul.islam.46)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratulislambd/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arfanratul46@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-01712345678-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801643110638)
+[![Phone](https://img.shields.io/badge/Phone-01712345678-blue?style=for-the-badge&logo=phone&logoColor=white)](+8801643110638)
 
 
 
