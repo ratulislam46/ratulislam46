@@ -1,17 +1,20 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Avneesh's+GitHub+Profile!)](https://git.io/typing-svg)
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Ratul.</h1>
 <br/>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulislam46&label=Profile%20views&color=0e75b6&style=flat" alt="ratulislam46" /> </p>
 
+![banner smaller size](https://user-images.githubusercontent.com/76690419/191395838-1600a7d2-ba0f-47e0-bd17-a8f167c6a3bf.png)
+
+
 ## 👋 About Me
 
 - 🌍 I enjoy building web applications that solve real-world problems and improve user experience. 
 - 🌱 I’m currently learning many things and I believe that every day is a learning opportunity.
 - 🤝 I'm a **good team player** who enjoys working and collaborating with others.
-- 😄 Also, I’m known to be a **funny and friendly person** — I believe a little humor makes every project more enjoyable.
-- 🎯 I want to learn a lot and become a skilled developer.
-- 💼 Actively looking for **job opportunities** where I can grow as a developer.
+- 🤓 Always learning new things
 - 🌐 I have a personal **portfolio** where I showcase my projects.[https://abc-portfolio.com](https://abc-portfolio.com)
 
 ### 📫 Contact Me
@@ -37,10 +40,9 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](#)
 
+
 ## 📈 My GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratulislam46&show_icons=true&locale=en&layout=compact" alt="ratulislam46" /></p>
-<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratulislam46&show_icons=true&locale=en" alt="ratulislam46" /></p>
-<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratulislam46&" alt="ratulislam46" /></p>
