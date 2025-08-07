@@ -1,11 +1,18 @@
-<h1 align="center">Hi I'm Md Ratul Islam 👋,</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Ratul.</h1>
+<br/>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulislam46&label=Profile%20views&color=0e75b6&style=flat" alt="ratulislam46" /> </p>
 
-- 📫 How to reach me **arfanratul46@gmail.com**
+## 👋 About Me
 
-- ⚡ Fun fact **I am funny**
+- 🌍 I enjoy building web applications that solve real-world problems and improve user experience. 
+- 🌱 I’m currently learning many things and I believe that every day is a learning opportunity.
+- 🤝 I'm a **good team player** who enjoys working and collaborating with others.
+- 😄 Also, I’m known to be a **funny and friendly person** — I believe a little humor makes every project more enjoyable.
+- 🎯 I want to learn a lot and become a skilled developer.
+- 💼 Actively looking for **job opportunities** where I can grow as a developer.
+- 🌐 I have a personal **portfolio** where I showcase my projects.[https://abc-portfolio.com](https://abc-portfolio.com)
 
 ### 📫 Contact Me
 
