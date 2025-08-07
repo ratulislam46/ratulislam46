@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulislam46&label=Profile%20views&color=0e75b6&style=flat" alt="ratulislam46" /> </p>
 
-![banner smaller size](https://user-images.githubusercontent.com/76690419/191395838-1600a7d2-ba0f-47e0-bd17-a8f167c6a3bf.png)
+![banner smaller size]([https://user-images.githubusercontent.com/76690419/191395838-1600a7d2-ba0f-47e0-bd17-a8f167c6a3bf.png](https://i.postimg.cc/KYv4jjFf/1.jpg))
 
 
 ## 👋 About Me
