@@ -37,8 +37,10 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](#)
 
+## 📈 My GitHub Stats:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratulislam46&show_icons=true&locale=en&layout=compact" alt="ratulislam46" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratulislam46&show_icons=true&locale=en" alt="ratulislam46" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratulislam46&" alt="ratulislam46" /></p>
