@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Next.js and I believe that every day is a learning opportunity.
 - 🤝 I'm a **good team member** who enjoys working and collaborating with others.
 - 🤓 Always learning new things
-- 🌐 I have a personal **portfolio** where I showcase my projects.[https://abc-portfolio.com](https://abc-portfolio.com)
+
 
 ### 📫 Contact Me
 
