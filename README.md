@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Ratul.</h1>
 <br/>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulislam46&label=Profile%20views&color=0e75b6&style=flat" alt="ratulislam46" /> </p>
 
@@ -12,9 +12,8 @@
 ## 👋 About Me
 
 - 🌍 I enjoy building web applications that solve real-world problems and improve user experience. 
-- 🌱 I’m currently learning Next.js and I believe that every day is a learning opportunity.
-- 🤝 I'm a **good team member** who enjoys working and collaborating with others.
-- 🤓 Always learning new things
+- 🌱 I’m currently learning Next.js.
+- 🤓 Always learning new things.
 
 
 ### 📫 Contact Me
