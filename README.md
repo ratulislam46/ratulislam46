@@ -12,7 +12,8 @@
 ## 👋 About Me
 
 - 💻 Junior Web Developer | MERN Stack Developer 
-- 🌱 I’m currently learning Next.js. 
+- 🌱 I’m currently learning Next.js.
+- 🛠 Currently working on: Full-stack projects and real-life applications
 - 🚀 Passionate about building modern web apps with React, Node.js, and MongoDB  
 - 🎯 Always learning, exploring new technologies, and improving problem-solving skills
 - 🌍 I enjoy building web applications that solve real-world problems and improve user experience. 
