@@ -7,12 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulislam46&label=Profile%20views&color=0e75b6&style=flat" alt="ratulislam46" /> </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/L6RG5WXh/Gemini-Generated-Image-hmspj0hmspj0hmsp.png" width="100%" alt="banner"/>
+  <img src="[https://i.postimg.cc/L6RG5WXh/Gemini-Generated-Image-hmspj0hmspj0hmsp.png](https://i.postimg.cc/9Mgtt3qC/Navy-Blue-Geometric-Technology-Linked-In-Banner-(3).png)" width="100%" alt="banner"/>
 </p>
 
 ## 👋 About Me
 
-- 💻 Full Stack Developer 
+- 💻 Frontend / MERN Stack Developer
 - 🌱 I’m currently learning Next.js & TypeScript.
 - 🛠 Currently working on: Full-stack projects and real-life applications
 - 🚀 Passionate about building modern web apps with React, Node.js, and MongoDB  
@@ -37,7 +37,6 @@
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=000000)](#)
 
 ### 🧰 Backend & DB
