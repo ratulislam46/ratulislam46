@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulislam46&label=Profile%20views&color=0e75b6&style=flat" alt="ratulislam46" /> </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/9Mgtt3qC/Navy-Blue-Geometric-Technology-Linked-In-Banner-(3).png" width="100%" alt="banner"/>
+  <img src="https://i.ibb.co.com/7xxBh5mM/Github-banner.png" width="100%" alt="banner"/>
 </p>
 
 ## 👋 About Me
 
 - 💻 Frontend / MERN Stack Developer
-- 🌱 I’m currently learning Next.js & TypeScript.
+- 🌱 I’m currently learning Redux & TypeScript.
 - 🛠 Currently working on: Full-stack projects and real-life applications
-- 🚀 Passionate about building modern web apps with React, Node.js, and MongoDB  
+- 🚀 Passionate about building modern web apps with React,Tailwind css, and Node.js. 
 - 🎯 Always learning, exploring new technologies, and improving problem-solving skills
 - 🌍 I enjoy building web applications that solve real-world problems and improve user experience. 
 
