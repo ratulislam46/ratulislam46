@@ -13,9 +13,8 @@
 ## 👋 About Me
 
 - 💻 Frontend / MERN Stack Developer
-- 🌱 I’m currently learning Redux & TypeScript.
-- 🛠 Currently working on: Full-stack projects and real-life applications
-- 🚀 Passionate about building modern web apps with React,Tailwind css, and Node.js. 
+- 🛠 Currently working on industrial level projects and real-life websites through internships.
+- 🚀 Passionate about building modern web apps with Typescript, React, Next.js Tailwind css,Node.js, MongoDB. 
 - 🎯 Always learning, exploring new technologies, and improving problem-solving skills
 - 🌍 I enjoy building web applications that solve real-world problems and improve user experience. 
 
@@ -36,6 +35,7 @@
 [![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=000000&logo=typescript&logoColor=3178C6)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=000000)](#)
 
