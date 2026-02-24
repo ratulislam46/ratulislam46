@@ -13,7 +13,7 @@
 ## 👋 About Me
 
 - 💻 Frontend / MERN Stack Developer
-- 🛠 Currently working on industrial level projects and real-life websites through internships.
+- 🛠 Currently working on industrial level projects and real-life websites.
 - 🚀 Passionate about building modern web apps with Typescript, React, Next.js Tailwind css,Node.js, MongoDB. 
 - 🎯 Always learning, exploring new technologies, and improving problem-solving skills
 - 🌍 I enjoy building web applications that solve real-world problems and improve user experience. 
